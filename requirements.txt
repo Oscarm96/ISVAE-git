@@ -1,0 +1,79 @@
+absl-py @ file:///opt/concourse/worker/volumes/live/c2598254-2f21-48c7-6f9d-7ed35c4ac1df/volume/absl-py_1615411194034/work
+aiohttp @ file:///opt/concourse/worker/volumes/live/c3cb6692-82cf-4cbe-4c9c-30944b7532e9/volume/aiohttp_1614360972016/work
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+blinker==1.4
+brotlipy==0.7.0
+CacheControl==0.12.11
+cachetools @ file:///tmp/build/80754af9/cachetools_1611600262290/work
+certifi==2020.12.5
+cffi @ file:///opt/concourse/worker/volumes/live/8fbed55e-0573-4246-7cf9-162067141d5e/volume/cffi_1605538070636/work
+chardet @ file:///opt/concourse/worker/volumes/live/a5a7c56b-23cb-471d-7404-f4130b8aed33/volume/chardet_1605303184529/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+coverage @ file:///opt/concourse/worker/volumes/live/6ceb89b1-0a6f-4390-463d-c777be9e36ff/volume/coverage_1614614853506/work
+cryptography @ file:///opt/concourse/worker/volumes/live/9e389c3a-06d6-47ca-7c45-204b7cea3eed/volume/cryptography_1615532398746/work
+cycler==0.10.0
+Cython @ file:///opt/concourse/worker/volumes/live/d39f13b7-27d4-4bda-5592-94573194d8e6/volume/cython_1614014833941/work
+firebase-admin==6.1.0
+google-api-core==2.11.0
+google-api-python-client==2.78.0
+google-auth @ file:///tmp/build/80754af9/google-auth_1614883971544/work
+google-auth-httplib2==0.1.0
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1614894617465/work
+google-cloud-core==2.3.2
+google-cloud-firestore==2.9.1
+google-cloud-storage==2.7.0
+google-crc32c==1.5.0
+google-resumable-media==2.4.1
+googleapis-common-protos==1.58.0
+grpcio @ file:///opt/concourse/worker/volumes/live/b549791f-b47d-49ca-7293-5d53b55def5a/volume/grpcio_1614884176451/work
+grpcio-status==1.51.1
+httplib2==0.21.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1601671685479/work
+kiwisolver @ file:///opt/concourse/worker/volumes/live/b8936fa6-0e4b-47e7-4fb4-e02dbd4505ee/volume/kiwisolver_1604014598721/work
+Markdown @ file:///opt/concourse/worker/volumes/live/3da0a8d0-509b-4685-6a53-c40b324889d7/volume/markdown_1614363821960/work
+matplotlib @ file:///opt/concourse/worker/volumes/live/f7797860-f8aa-410c-4a56-72315954816b/volume/matplotlib-base_1603378002957/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.4
+multidict @ file:///opt/concourse/worker/volumes/live/13289f20-f4bb-4e3d-7e57-60a41fceffd4/volume/multidict_1607367786469/work
+numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
+oauthlib==3.1.0
+olefile==0.46
+pandas==1.1.5
+Pillow @ file:///opt/concourse/worker/volumes/live/991b9a87-3372-4acd-45f9-eaa52701f03c/volume/pillow_1603822262543/work
+proto-plus==1.22.2
+protobuf==3.20.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT==2.6.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+python-dateutil==2.8.1
+pytorch-model-summary @ file:///home/conda/feedstock_root/build_artifacts/pytorch-model-summary_1598394892458/work
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/111833a2-339b-4578-413b-7337bb8fe64a/volume/scikit-learn_1598376920601/work
+scipy @ file:///opt/concourse/worker/volumes/live/851446f6-a052-41c4-4243-67bb78999b49/volume/scipy_1604596178167/work
+six @ file:///opt/concourse/worker/volumes/live/5b31cb27-1e37-4ca5-6e9f-86246eb206d2/volume/six_1605205320872/work
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_te/tensorboard_1614593728657/work/tmp_pip_dir
+tensorboard-plugin-wit==1.6.0
+tensorboardX @ file:///home/conda/feedstock_root/build_artifacts/tensorboardx_1594067496847/work
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+torch @ file:///opt/concourse/worker/volumes/live/f1ad46c0-b0e0-4a2c-42b1-36c80dc13116/volume/pytorch_1596288435440/work
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1611751222202/work
+uritemplate==4.1.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1611694770489/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+window-slider==0.8
+yarl @ file:///opt/concourse/worker/volumes/live/fd1429a0-40c2-4b4b-63f5-1e3d849157dd/volume/yarl_1606940018548/work
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
