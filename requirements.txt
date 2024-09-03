@@ -14,18 +14,6 @@ coverage @ file:///opt/concourse/worker/volumes/live/6ceb89b1-0a6f-4390-463d-c77
 cryptography @ file:///opt/concourse/worker/volumes/live/9e389c3a-06d6-47ca-7c45-204b7cea3eed/volume/cryptography_1615532398746/work
 cycler==0.10.0
 Cython @ file:///opt/concourse/worker/volumes/live/d39f13b7-27d4-4bda-5592-94573194d8e6/volume/cython_1614014833941/work
-firebase-admin==6.1.0
-google-api-core==2.11.0
-google-api-python-client==2.78.0
-google-auth @ file:///tmp/build/80754af9/google-auth_1614883971544/work
-google-auth-httplib2==0.1.0
-google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1614894617465/work
-google-cloud-core==2.3.2
-google-cloud-firestore==2.9.1
-google-cloud-storage==2.7.0
-google-crc32c==1.5.0
-google-resumable-media==2.4.1
-googleapis-common-protos==1.58.0
 grpcio @ file:///opt/concourse/worker/volumes/live/b549791f-b47d-49ca-7293-5d53b55def5a/volume/grpcio_1614884176451/work
 grpcio-status==1.51.1
 httplib2==0.21.0
