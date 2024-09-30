@@ -20,11 +20,12 @@ This repository contains the implementation of an Interpretable Spectral Variati
    ```bash
    pip install -r requirements.txt
 
-3. **Modify the main.py to set hyperparameters (ISVAE version, latent dimension, number of filters, filter's width and epochs) at will.
-4. **Run the code
+3. **Hyperarameter settings**
+Modify the main.py to set hyperparameters (ISVAE version, latent dimension, number of filters, filter's width and epochs) at      will.
+4. **Run the code**
 
    ```bash
    python main.py
 
-5. **License
+5. **License**
 This project is licensed under the MIT License. See the 1  LICENSE file for details.
